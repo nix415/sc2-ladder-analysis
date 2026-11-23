@@ -3,6 +3,7 @@
 An end-to-end data project: pull ranked ladder data from a live API, store and clean it in SQL, and present the findings in an interactive dashboard.
 
 **Live dashboard:** [View on Tableau Public](https://public.tableau.com/views/Book1_17954684206350/StarCraftIIGrandmasterLadderRaceandRatingPatterns)
+![Dashboard screenshot](docs/dashboard.png)
 
 **Tools:** Python (requests, pandas), SQL (SQLite: joins, CTEs, window functions), Tableau Public
 
